@@ -1,2 +1,24 @@
 # dataStructure
-データ構造（リスト、タプル、セット、ディクショナリ）
+- データ構造
+    -リスト、タプル、セット、ディクショナリ
+
+- `listSample.ipynb`
+    - リストの基本
+- `modifyList.ipynb`
+    - リストを変更する
+- `bubbleSort.ipynb`
+    - リストの要素を整列する
+- `tuples.ipynb`
+    - タプルの基本
+- `namedTuples.ipynb`
+    - 名前付きタプル
+- `sets.ipynb`
+    - セット(集合)
+- `dictionaries.ipynb`
+    - 辞書型
+- 確認テスト
+    - `quiz1.ipynb`
+    - `quiz2.ipynb`
+- 演習問題
+    - `exercise1.ipynb`
+    - `exercise2.ipynb`
